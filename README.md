@@ -26,5 +26,3 @@ The experiments conducted in this study case replicate the experiments described
 [1] Reference for Study Case 1: [A Comparison of Different Compound Representations for Drug Sensitivity Prediction](https://link.springer.com/chapter/10.1007/978-3-030-86258-9_15)
 
 [2] Reference for Study Case 2: [A systematic evaluation of deep learning methods for the prediction of drug synergy in cancer](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010200)
-
-Please cite the respective papers when using or referring to the results and methodologies presented in this repository.
