@@ -1,25 +1,25 @@
 # Development of a Software Application for Drug Sensitivity Prediction
 
-This repository contains the results of the thesis titled "Development of a software application based on deep learning to predict drug sensitivity of cancer cell lines". The thesis explores two study cases: "Single input drug sensitivity prediction" and "Predicting drug synergy in cancer cell lines".
+This repository contains the results of the thesis titled "Development of a software application based on deep learning to predict drug sensitivity of cancer cell lines". The thesis explores two case studies: "Single input drug sensitivity prediction" and "Predicting drug synergy in cancer cell lines".
 
-## Study Case 1: Single Input Drug Sensitivity Prediction
+## Case Study 1: Single Input Drug Sensitivity Prediction
 
-This study case investigates the impact of different compound representations on drug sensitivity prediction. The folder "Drug_Sensitivity_Prediction" contains the following files:
+This case study investigates the impact of different compound representations on drug sensitivity prediction. The folder "Drug_Sensitivity_Prediction" contains the following files:
 
 - `drug_sensitivity.py`: Python script to run each experiment and evaluate the performance of different compound representations.
 - `data`: Folder containing the data and splits used in the experiments.
 - `results.xlsx`: Excel file presenting the results of the experiments.
 
-The experiments conducted in this study case replicate the experiments described in the paper [1].
+The experiments conducted in this case study replicate the experiments described in the paper [1].
 
-## Study Case 2: Predicting Drug Synergy in Cancer Cell Lines
+## Case Study 2: Predicting Drug Synergy in Cancer Cell Lines
 
-This study case focuses on evaluating the effect of several methodological variables in predicting drug synergy. The folder "Drug_Synergy_Prediction" includes the following files:
+This case study focuses on evaluating the effect of several methodological variables in predicting drug synergy. The folder "Drug_Synergy_Prediction" includes the following files:
 
 - `drug_synergy.py`: Python script used to perform each experiment.
 - `results.xlsx`: Excel file containing the results obtained from the experiments.
 
-The experiments conducted in this study case replicate the experiments described in the paper [2]. To generate the necessary data and splits for this study case, please refer to the scripts provided by the authors. These scripts are available at https://github.com/BioSystemsUM/drug_response_pipeline/blob/master/almanac/README.md.
+The experiments conducted in this case study replicate the experiments described in the paper [2]. To generate the necessary data and splits for this study case, please refer to the scripts provided by the authors. These scripts are available at https://github.com/BioSystemsUM/drug_response_pipeline/blob/master/almanac/README.md.
 
 ## References
 
